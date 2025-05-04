@@ -1,0 +1,4 @@
+* @antitrumpofficial
+/contracts/ @antitrumpofficial-devs
+/scripts/ @antitrumpofficial-devs
+/docs/ @antitrumpofficial-docs

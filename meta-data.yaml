@@ -1,0 +1,42 @@
+name: Anti Trump Official
+symbol: ATO
+description: >
+  Anti Trump Official (ATO) is a globally-focused token project combining decentralized governance, social activism, and sustainable tokenomics. Built on Binance Smart Chain, ATO integrates DAO, vesting, anti-whale mechanics, auto-burn, and real holder rewards.
+  
+official_website: https://antitrumpofficial.com
+telegram: https://t.me/antitrumptoken
+github: https://github.com/antitrumpofficial/ATO-Token-Official
+bscscan: https://bscscan.com/token/0xYourTokenContractAddressHere
+
+contract_address: 0xYourTokenContractAddressHere
+network: Binance Smart Chain
+decimals: 18
+total_supply: 300000000
+
+tax_fee: 1
+tax_wallet: 0xddb5baecc32c634a7242c9fee80493129d9d5ada
+
+wallets:
+  owner: 0x616C518dec8BB15E5bFde9EE175c87782490548d
+  team: 0xcfad82fe1aa5a4c3215180ed77c673a2a223e8cc
+  ngo: 0x81C7774e5dC5D099Be29ce861063286620C8192d
+  marketing_partnerships: 0xf37a2571dc9a55ceb3682c3cd4ffe342c55757a6
+  rewards_airdrop: 0xcf324c6a0184d001eca1722edaf52a93baccbc0f
+
+features:
+  - DAO Governance (Snapshot & Discourse enabled)
+  - Reflection to Holders
+  - Anti-Whale System
+  - Auto Burn after 1M transactions
+  - Vesting Mechanism for Team
+  - Upgradable Contract (UUPS proxy)
+  - Security Audit Ready
+  - Metadata ready for BscScan & TrustWallet
+  - Global NGO support system
+
+exchange_strategy:
+  - Phase 1: Small DEX listings
+  - Phase 2: CoinEx & KuCoin
+  - Phase 3: Global Tier 1 listings (CMC, CG, Binance potential)
+
+license: MIT

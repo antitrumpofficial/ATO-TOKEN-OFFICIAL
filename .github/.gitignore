@@ -1,0 +1,33 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore build and artifacts
+build/
+artifacts/
+cache/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore environment and secrets
+.env
+.env.*
+
+# Ignore IDE/editor folders
+.vscode/
+.idea/
+
+# Ignore OS generated files
+ehthumbs.db
+Desktop.ini
+
+# Ignore compiled contracts (optional if not using Truffle/Hardhat outputs)
+*.json
